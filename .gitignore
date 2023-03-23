@@ -1,10 +1,10 @@
 msgpack*.tar.gz
 msgpack*/
 x86_64/
+aarch64/
 noarch/
 i386/
 i686/
-x86_64/
 ppc/
 ppc64/
 ia64/
