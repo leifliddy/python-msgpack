@@ -10,6 +10,9 @@
 %global __provides_exclude_from ^(%{python2_sitearch}/.*\\.so)$
 %endif
 
+# xxx
+%global python3_pkgversion 36
+
 Name:           python-%{srcname}
 Version:        0.6.2
 Release:        2%{?dist}
